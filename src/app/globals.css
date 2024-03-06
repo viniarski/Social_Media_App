@@ -6,6 +6,17 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --color-primary: #333a73;
+  --color-secondary: #387adf;
+  --color-accent: #fba834;
+  --color-text: #333a73;
+  --color-background: #ffffff;
+  --color-input-background: #f3f4f6;
+  --color-input-text: #333a73;
+  --color-input-border: #e5e7eb;
+  --color-button-background: #fba834;
+  --color-button-text: #ffffff;
+  --color-button-hover: #f9970e;
 }
 
 @media (prefers-color-scheme: dark) {
